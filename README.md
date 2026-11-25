@@ -17,3 +17,9 @@ GitHub, Java development and open source.
 - Git
 - GitHub
 - Backend Development
+
+
+## About Me
+
+I'm learning software development,
+Git, GitHub and open source contribution.
