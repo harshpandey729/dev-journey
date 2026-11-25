@@ -9,3 +9,11 @@ GitHub, Java development and open source.
 - Improve Java development skills
 - Explore backend development
 - Prepare for GSoC 2027
+
+
+## Technologies I'm Learning
+
+- Java
+- Git
+- GitHub
+- Backend Development
